@@ -1,0 +1,2 @@
+## objectifs
+- apprendre git
